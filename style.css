@@ -12,8 +12,8 @@
     box-sizing: border-box;
 }
 body {
+    margin-top: 100px;
     font-family: 'Mulish', sans-serif;
-    /* display: flex; */
     justify-content: center;
     background-color: #ffffff;
 }
@@ -30,6 +30,7 @@ img{
 }
 
 .container{
+    margin: 0 auto;
     max-width: 500px;
     max-height: 800px;
     background-color: white;
@@ -178,3 +179,4 @@ img{
     font-weight: 700;
     margin-bottom: 20px;
 }
+
