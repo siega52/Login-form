@@ -29,16 +29,6 @@
 - **Google Fonts** - шрифт Mulish
 - **Адаптивный дизайн** - mobile-first подход
 
-## Структура проекта
-project/
-├── index.html # Основной HTML файл
-├── style.css # Стили проекта
-├── script.js # JavaScript файл (если нужен)
-├── img/ # Папка с изображениями
-│ ├── google.png # Иконка Google
-│ └── apple.png # Иконка Apple
-└── README.md # Документация
-
 
 ## Быстрый старт
 
