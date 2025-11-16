@@ -66,7 +66,7 @@ img{
     gap: 0.75rem;
     justify-content: center;
     align-items: center;
-    border: 1px solid #E1EEF5;
+    border: 1px solid var(--primary-light);
     font-weight: 700;
     color: rgb(48, 48, 48);
 }
@@ -89,7 +89,7 @@ img{
     gap: 0.75rem;
     justify-content: center;
     align-items: center;
-    border: 1px solid #E1EEF5;
+    border: 1px solid var(--primary-light);
     font-weight: 700;
     color: rgb(48, 48, 48);
 }
@@ -149,13 +149,13 @@ img{
     justify-content: center;
     text-align: center;
     width: 100%;
-    background-color: #4978F0;
+    background-color: var(--primary);
     padding: 10px 25px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 .login_btn {
-    color: #E1EEF5;
+    color: var(--primary-light);
     width: 100%;
 }
 .login_password{
@@ -168,15 +168,16 @@ img{
 }
 .login_reset_password {
     font-size: 14px;
-    color: #101010;
+    color: var(--secondary);
     font-weight: 700;
 }
 .login_create_account {
     display: flex;
     justify-content: center;
     text-align: center;
-    color: #4978F0;
+    color: var(--primary);
     font-weight: 700;
     margin-bottom: 20px;
 }
+
 
