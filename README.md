@@ -29,14 +29,6 @@
 - **Google Fonts** - шрифт Mulish
 - **Адаптивный дизайн** - mobile-first подход
 
-
-## Быстрый старт
-
-1. **Клонируй репозиторий**
-   ```bash
-   git clone https://github.com/siega52/Login-form.git
-
-
 **Адаптивность**
 Форма оптимизирована для:
 
